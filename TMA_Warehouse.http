@@ -1,0 +1,6 @@
+@TMA_Warehouse_HostAddress = http://localhost:5033
+
+GET {{TMA_Warehouse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
